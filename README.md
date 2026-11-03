@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="slides/assets/logo_arrabal_color.png" alt="Asociación Arrabal" width="245" />
+
 
 # Del ejemplo cotidiano a la North Star
 
@@ -96,5 +95,3 @@ python lab/analisis.py --output resultados
 El último comando descarga datos desde Internet y escribe los resultados en `resultados/` (ignorados por Git).
 
 ---
-
-Material didáctico de Arrabal / Somos F5. Consulta [NOTICE.md](NOTICE.md) para procedencia y límites de los datos.
