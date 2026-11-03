@@ -14,12 +14,10 @@
 | Recurso | Contenido |
 |---|---|
 | [Presentación (PDF)](slides/presentacion_kpis_arrabal.pdf) | 8 diapositivas para introducir ejemplos y generar debate. |
-| [Fuente editable Beamer](slides/presentacion_kpis_arrabal.tex) | Archivo `.tex` y logotipo en `slides/assets/`. |
 | [Actividad 1: debate](actividades/01_debate_inicial.md) | Spotify, gimnasio y reparto a domicilio. |
 | [Actividad 2: North Star](actividades/02_reto_goalzone.md) | Construcción del árbol de métricas de GoalZone. |
 | [Plantilla del equipo](actividades/plantilla_equipo.md) | Entregable reproducible del grupo. |
 | [Actividad 3: análisis](actividades/03_extension_datos.md) | Extensión opcional para interpretar correlaciones. |
-| [Guía docente](guia_docente.md) | Cronograma, preguntas y rúbrica. |
 | [Notebook de solución](lab/Solucion_GoalZone_Colab.ipynb) | Ejecutable en Google Colab, sin instalación local. |
 | [Script de análisis](lab/analisis.py) | Descarga datos, calcula KPIs y genera gráficos e informe. |
 
@@ -70,7 +68,6 @@ Se utilizan r punto-biserial, V de Cramér y p-values ajustados por Benjamini–
 kpi_session/
 ├── .github/workflows/analizar-goalzone.yml
 ├── README.md
-├── guia_docente.md
 ├── actividades/
 │   ├── 01_debate_inicial.md
 │   ├── 02_reto_goalzone.md
@@ -78,8 +75,6 @@ kpi_session/
 │   └── plantilla_equipo.md
 ├── slides/
 │   ├── presentacion_kpis_arrabal.pdf
-│   ├── presentacion_kpis_arrabal.tex
-│   └── assets/logo_arrabal_color.png
 ├── lab/
 │   ├── analisis.py
 │   └── Solucion_GoalZone_Colab.ipynb
